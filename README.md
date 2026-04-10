@@ -1,2 +1,2 @@
-# IMC
-Código para verificar IMC da pessoa
+# Menu
+Exercício de menu de RA
